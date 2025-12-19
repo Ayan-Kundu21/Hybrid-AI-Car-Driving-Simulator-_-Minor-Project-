@@ -1,0 +1,28 @@
+
+=== TRAINING REPORT ===
+Generated: 2025-12-11T20:27:53.832796
+
+DATA STATISTICS:
+- Total logged entries: 100
+- Average reward: -795.703
+- Average speed: 0.229
+- Data collection period: N/A to N/A
+
+ACTION DISTRIBUTION:
+- brake: 81 (81.0%)
+- accelerate: 12 (12.0%)
+- turn_left: 5 (5.0%)
+- turn_right: 2 (2.0%)
+
+AI MODEL STATUS:
+- Decision classifier trained: True
+- Speed regressor trained: True
+- Q-table size: 1854 states
+- Current exploration rate (epsilon): 0.100
+
+PERFORMANCE METRICS:
+- Action prediction accuracy: 0.910
+- Average speed prediction error: 0.016
+- Evaluation samples: 100
+
+=== END REPORT ===
